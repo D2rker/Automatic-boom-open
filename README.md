@@ -1,3 +1,5 @@
+                                          Automatic boom barrier
+
 Automatic boom barriers, also called boom gates, are commonly found regulating traffic flow at entrances and exits of places like:
 
 Toll booths
